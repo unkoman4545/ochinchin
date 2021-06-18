@@ -819,6 +819,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.18-16.32.23:986][887]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.029
 [2021.06.18-16.32.24:005][887]AssetCheck: New page: アセット保存:ThirdPersonExampleMap
 [2021.06.18-16.32.24:005][887]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+<<<<<<< HEAD
 [2021.06.18-16.54.37:206][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2021.06.18-16.54.37:221][229]LogSlate: Window 'MyProject8 - Unreal Editor' being destroyed
 [2021.06.18-16.54.37:312][230]Cmd: QUIT_EDITOR
@@ -1354,3 +1355,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.18-16.54.38:908][230]LogD3D11RHI: CleanupD3DDevice
 [2021.06.18-16.54.38:925][230]LogExit: Exiting.
 [2021.06.18-16.54.38:934][230]Log file closed, 06/19/21 01:54:38
+=======
+>>>>>>> a338eb538545f3dc4d99c943fdd8f57c0f7e92ff
